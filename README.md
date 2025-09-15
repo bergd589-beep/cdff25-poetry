@@ -2,4 +2,6 @@
 Luciana
 Hello
 Add Hamster
+Add Chipmunk
+(http://url/to/llama.png)
 
